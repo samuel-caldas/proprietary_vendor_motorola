@@ -1,0 +1,6 @@
+libqti-perfd-client.so
+libadsprpc.so
+libsdsprpc.so
+libOpenCL.so
+libfastcvopt.so
+libmcf-qc-fd-offline.so
