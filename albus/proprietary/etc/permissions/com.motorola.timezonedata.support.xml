@@ -1,5 +1,0 @@
-<permissions>
-    <!-- This system feature is required for
-         getting MotoTimeZoneData play store updates. -->
-    <feature name="com.motorola.timezonedata.SUPPORTED" />
-</permissions>
